@@ -53,3 +53,6 @@ df$Estado_Civil.cat <- factor(df$Estado_Civil, labels = c("Solteiro", "Casado", 
 df
 
 str(df)
+
+
+
